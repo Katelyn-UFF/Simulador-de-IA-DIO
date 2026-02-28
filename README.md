@@ -1,0 +1,51 @@
+# Plano de Estudos - Suporte TI / Field Service
+
+Este repositório foi criado para aprimorar os meus conhecimentos em vibe coding que foram adquiridos através do curso CAIXA - Inteligência Artificial na Prática
+na plataforma DIO, foi criado no Copilot e contém um **plano de estudos acelerado (1h/dia)** para reforçar conhecimentos em **Suporte TI** com foco em **Field Service** em ambientes críticos, como hospitais.
+
+---
+
+## Objetivo
+- Reforçar fundamentos de hardware, software e redes.  
+- Desenvolver habilidades de atendimento e priorização de chamados.  
+- Treinar práticas de field service com exemplos reais.  
+- Criar um portfólio de aprendizado documentado no GitHub.  
+
+---
+
+## Cronograma de 4 Semanas (1h/dia)
+
+| Dia  | Tema Principal                  | Vídeo YouTube (Sugestão)                                                                 | Objetivo                                                                 |
+|------|---------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| 1    | Fundamentos de Hardware         | [Hardware Básico para Técnicos de Informática](https://www.youtube.com/results?search_query=hardware+b%C3%A1sico+t%C3%A9cnicos+inform%C3%A1tica) | Revisar diagnóstico e manutenção de hardware                             |
+| 2    | Sistemas Operacionais           | [Instalação e Configuração Windows/Linux](https://www.youtube.com/results?search_query=instala%C3%A7%C3%A3o+configura%C3%A7%C3%A3o+windows+linux) | Aprender instalação/configuração prática                                 |
+| 3    | Suporte Técnico na Prática      | [Suporte Técnico de TI – Como Funciona](https://www.youtube.com/results?search_query=suporte+t%C3%A9cnico+ti+como+funciona) | Entender rotina e boas práticas de suporte                               |
+| 4    | Atendimento ao Usuário          | [Boas Práticas de Atendimento em TI](https://www.youtube.com/results?search_query=boas+pr%C3%A1ticas+atendimento+ti) | Desenvolver comunicação clara e empática                                 |
+| 5    | Redes – Conceitos Básicos       | [Redes de Computadores Explicadas](https://www.youtube.com/results?search_query=redes+de+computadores+b%C3%A1sico) | Reforçar fundamentos de redes                                            |
+| 6    | Configuração de Rede            | [Configuração de Rede Windows/Linux](https://www.youtube.com/results?search_query=configura%C3%A7%C3%A3o+rede+windows+linux) | Praticar setup de rede em diferentes sistemas                            |
+| 7    | Field Service – Introdução      | [Field Service na Prática](https://www.youtube.com/results?search_query=field+service+ti) | Conhecer ferramentas modernas de field service                           |
+| 8    | Priorizar Chamados              | [Como Priorizar Chamados de Suporte](https://www.youtube.com/results?search_query=priorizar+chamados+suporte+ti) | Aprender técnicas de priorização em ambientes críticos                   |
+| 9    | Casos Críticos em TI            | [Exemplos Reais de Suporte em Campo](https://www.youtube.com/results?search_query=suporte+ti+casos+cr%C3%ADticos) | Estudar exemplos reais de suporte em campo                               |
+| 10   | Revisão Prática                 | Reassistir vídeos mais desafiadores                                                       | Consolidar aprendizado da semana                                         |
+
+---
+
+## Como Usar
+- Assista **1 vídeo por dia (30-60 min)**.  
+- Faça anotações em um caderno ou no próprio repositório.  
+- Crie uma aba de **status** (Concluído / Em andamento).  
+- Simule situações reais de atendimento e resolução de problemas.  
+
+---
+
+## Próximos Passos
+- Documentar aprendizados em arquivos Markdown dentro do repositório.  
+- Criar uma pasta `/notas` para registrar insights semanais.  
+- Ao final de 4 semanas, escrever um **resumo analítico** dos avanços.  
+
+---
+
+---
+
+## Observação
+Os links levam para buscas no YouTube, garantindo que você encontre os vídeos mais atualizados e relevantes sobre cada tema.
